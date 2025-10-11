@@ -1,0 +1,1 @@
+Age: 19 | Weight: 85.0 | Pressure: 11.0 | Sugar: 12.0 | Heart Rate: 12.0
