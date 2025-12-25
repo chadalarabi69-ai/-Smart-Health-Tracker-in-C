@@ -15,6 +15,10 @@ The program analyzes the inputs and saves a health report in a text file for eas
 - Compiler: **GCC**
 
 ## 📸 Project Screenshots
+### 1/  Program Run Screenshot
+![Program Run](images/programrun.png)
+### 2/  health_analysis
+![health analysis](images/healthanalysis.png)
 
 ## 🚀 How to Run
 1. Clone the repository:
