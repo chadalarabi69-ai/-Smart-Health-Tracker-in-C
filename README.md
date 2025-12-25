@@ -14,6 +14,8 @@ The program analyzes the inputs and saves a health report in a text file for eas
 - Language: **C**
 - Compiler: **GCC**
 
+## 📸 Project Screenshots
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
